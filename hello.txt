@@ -1,20 +1,4 @@
 hello.txt  hello atguigu
 wq
-
-wwq
-wq
-wq
-wq
-wq
-wq
-z
-
-wq
-wqwq
-qw
-
-wq
-wq
-wq
 12323545
 this is  based on master for the first2,this is based on hot-fix for the second2
